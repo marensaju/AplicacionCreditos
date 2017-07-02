@@ -1,0 +1,6 @@
+C:\Users\maren\OneDrive\Documentos\Visual Studio 2013\Projects\CopeCredi\DAL\bin\Release\DAL.dll.config
+C:\Users\maren\OneDrive\Documentos\Visual Studio 2013\Projects\CopeCredi\DAL\bin\Release\DAL.dll
+C:\Users\maren\OneDrive\Documentos\Visual Studio 2013\Projects\CopeCredi\DAL\bin\Release\DAL.pdb
+C:\Users\maren\OneDrive\Documentos\Visual Studio 2013\Projects\CopeCredi\DAL\obj\Release\DAL.dll
+C:\Users\maren\OneDrive\Documentos\Visual Studio 2013\Projects\CopeCredi\DAL\obj\Release\DAL.pdb
+C:\Users\maren\OneDrive\Documentos\Visual Studio 2013\Projects\CopeCredi\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache

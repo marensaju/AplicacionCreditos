@@ -1,0 +1,5 @@
+C:\Users\maren\Documents\Visual Studio 2013\Projects\CopeCredi\CopeCredi\bin\Debug\CopeCredi.dll
+C:\Users\maren\Documents\Visual Studio 2013\Projects\CopeCredi\CopeCredi\bin\Debug\CopeCredi.pdb
+C:\Users\maren\Documents\Visual Studio 2013\Projects\CopeCredi\CopeCredi\obj\Debug\CopeCredi.csprojResolveAssemblyReference.cache
+C:\Users\maren\Documents\Visual Studio 2013\Projects\CopeCredi\CopeCredi\obj\Debug\CopeCredi.dll
+C:\Users\maren\Documents\Visual Studio 2013\Projects\CopeCredi\CopeCredi\obj\Debug\CopeCredi.pdb

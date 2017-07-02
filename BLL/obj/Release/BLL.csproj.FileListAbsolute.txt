@@ -1,0 +1,7 @@
+C:\Users\maren\OneDrive\Documentos\Visual Studio 2013\Projects\CopeCredi\BLL\bin\Release\BLL.dll
+C:\Users\maren\OneDrive\Documentos\Visual Studio 2013\Projects\CopeCredi\BLL\bin\Release\BLL.pdb
+C:\Users\maren\OneDrive\Documentos\Visual Studio 2013\Projects\CopeCredi\BLL\bin\Release\DAL.dll
+C:\Users\maren\OneDrive\Documentos\Visual Studio 2013\Projects\CopeCredi\BLL\bin\Release\DAL.pdb
+C:\Users\maren\OneDrive\Documentos\Visual Studio 2013\Projects\CopeCredi\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+C:\Users\maren\OneDrive\Documentos\Visual Studio 2013\Projects\CopeCredi\BLL\obj\Release\BLL.dll
+C:\Users\maren\OneDrive\Documentos\Visual Studio 2013\Projects\CopeCredi\BLL\obj\Release\BLL.pdb

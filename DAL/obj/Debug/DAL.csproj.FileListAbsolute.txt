@@ -1,0 +1,12 @@
+C:\Users\maren\Documents\Visual Studio 2013\Projects\CopeCredi\DAL\bin\Debug\DAL.dll.config
+C:\Users\maren\Documents\Visual Studio 2013\Projects\CopeCredi\DAL\bin\Debug\DAL.dll
+C:\Users\maren\Documents\Visual Studio 2013\Projects\CopeCredi\DAL\bin\Debug\DAL.pdb
+C:\Users\maren\Documents\Visual Studio 2013\Projects\CopeCredi\DAL\obj\Debug\DAL.dll
+C:\Users\maren\Documents\Visual Studio 2013\Projects\CopeCredi\DAL\obj\Debug\DAL.pdb
+C:\Users\maren\Documents\Visual Studio 2013\Projects\CopeCredi\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\maren\OneDrive\Documentos\Visual Studio 2013\Projects\CopeCredi\DAL\bin\Debug\DAL.dll.config
+C:\Users\maren\OneDrive\Documentos\Visual Studio 2013\Projects\CopeCredi\DAL\bin\Debug\DAL.dll
+C:\Users\maren\OneDrive\Documentos\Visual Studio 2013\Projects\CopeCredi\DAL\bin\Debug\DAL.pdb
+C:\Users\maren\OneDrive\Documentos\Visual Studio 2013\Projects\CopeCredi\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\maren\OneDrive\Documentos\Visual Studio 2013\Projects\CopeCredi\DAL\obj\Debug\DAL.dll
+C:\Users\maren\OneDrive\Documentos\Visual Studio 2013\Projects\CopeCredi\DAL\obj\Debug\DAL.pdb

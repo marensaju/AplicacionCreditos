@@ -1,0 +1,14 @@
+C:\Users\maren\Documents\Visual Studio 2013\Projects\CopeCredi\BLL\bin\Debug\BLL.dll
+C:\Users\maren\Documents\Visual Studio 2013\Projects\CopeCredi\BLL\bin\Debug\BLL.pdb
+C:\Users\maren\Documents\Visual Studio 2013\Projects\CopeCredi\BLL\bin\Debug\DAL.dll
+C:\Users\maren\Documents\Visual Studio 2013\Projects\CopeCredi\BLL\bin\Debug\DAL.pdb
+C:\Users\maren\Documents\Visual Studio 2013\Projects\CopeCredi\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\maren\Documents\Visual Studio 2013\Projects\CopeCredi\BLL\obj\Debug\BLL.dll
+C:\Users\maren\Documents\Visual Studio 2013\Projects\CopeCredi\BLL\obj\Debug\BLL.pdb
+C:\Users\maren\OneDrive\Documentos\Visual Studio 2013\Projects\CopeCredi\BLL\bin\Debug\BLL.dll
+C:\Users\maren\OneDrive\Documentos\Visual Studio 2013\Projects\CopeCredi\BLL\bin\Debug\BLL.pdb
+C:\Users\maren\OneDrive\Documentos\Visual Studio 2013\Projects\CopeCredi\BLL\bin\Debug\DAL.dll
+C:\Users\maren\OneDrive\Documentos\Visual Studio 2013\Projects\CopeCredi\BLL\bin\Debug\DAL.pdb
+C:\Users\maren\OneDrive\Documentos\Visual Studio 2013\Projects\CopeCredi\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\maren\OneDrive\Documentos\Visual Studio 2013\Projects\CopeCredi\BLL\obj\Debug\BLL.dll
+C:\Users\maren\OneDrive\Documentos\Visual Studio 2013\Projects\CopeCredi\BLL\obj\Debug\BLL.pdb
